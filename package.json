@@ -1,0 +1,31 @@
+{
+  "name": "blog2",
+  "version": "1.0.0",
+  "description": "Lam web stationery",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bquochuy1514/Stationery-Website-NodeJS.git"
+  },
+  "keywords": [
+    "stationery",
+    "web",
+    "nodejs"
+  ],
+  "author": "huybui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bquochuy1514/Stationery-Website-NodeJS/issues"
+  },
+  "homepage": "https://github.com/bquochuy1514/Stationery-Website-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
